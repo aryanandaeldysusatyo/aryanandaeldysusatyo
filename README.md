@@ -11,4 +11,4 @@ I'll be upload some projects and things I'm currently working on. Everything i s
 * Java
 * Spring
 * Kotlin
-* Android Studio
+* Jetpack Compose
