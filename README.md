@@ -1,4 +1,4 @@
-## H1 Hello 🙋
+## Hello 🙋
 I'm arya, a programmer based in indonesia
 I mostly work on backend stuff - Java(Spring) and PHP(Laravel)
 I also currently learning about android software for mobile software purposes
